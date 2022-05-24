@@ -1,3 +1,15 @@
+h1 {
+  color: #687259;
+  text-align: center;
+}
 body {
-
+  background-color: #f4ece2;
+}
+  
+img {
+    border: groove #8e412e 10px;
+  }
+ 
+img:hover {
+  width: 20%;
 }
