@@ -1,6 +1,9 @@
 body {
   background-color: #23061E;
 } 
+h1 {
+  color: #FFFCF2;
+}
 #nav {
   max-width: 1300px;
   margin: 50px auto;
